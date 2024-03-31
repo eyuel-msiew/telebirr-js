@@ -4,11 +4,11 @@
 # End users may safely ignore this file. It has no relevance to other systems.
 ---
 status:       PUBLISHED
-technologies: [Web, Firebase]
+technologies: [Web, telebirr]
 categories:   [Getting Started]
-languages:    [JavaScript]
+languages:    [JavaScript,python]
 solutions:    [Mobile, Monetization, Startup, Enterprise]
-github:       firebase/quickstart-js
+github:       glitch-telebirr/telebirr-js
 level:        BEGINNER
 icon:         .google/icon.png
 license:      apache2
