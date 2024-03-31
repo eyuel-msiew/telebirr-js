@@ -1,12 +1,12 @@
 ---
-name: ⚠️ Issue with the quickstart code
+name: ⚠️ Issue with the Telebirr code
 about:
   Are you having issues running the code in this repository?
 ---
 
 <!-- DO NOT DELETE 
 validate_template=true
-template_path=.github/ISSUE_TEMPLATE/quickstart_issue.md
+template_path=.github/ISSUE_TEMPLATE/telebirr_issue.md
 -->
 
 <!--
@@ -14,7 +14,7 @@ template_path=.github/ISSUE_TEMPLATE/quickstart_issue.md
 Are you in the right place?
 
   * If you think you have found a **bug in the Firebase JS SDK** please file the issue here:
-    https://github.com/firebase/firebase-js-sdk  
+    https://github.com/glitch-telebirr/telebirr  
 -->
 
 ### Step 1: Describe your environment
